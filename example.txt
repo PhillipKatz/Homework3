@@ -1,0 +1,9 @@
+title page
+intro (what it is, what it uses, about...)
+[decompose to views?]
+stakeholders (what team members fall into this categroy? for each group - what they do, and other about)
+build layout
+
+
+include diagrams
+

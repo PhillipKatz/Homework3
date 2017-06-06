@@ -1,4 +1,8 @@
 Summarise the contents of the project's summary (all sections) into a Power-Point presentation
 
+https://gitpitch.com/
 
 share with https://github.com/robi-y
+
+	once done with presentation upload here
+	https://github.com/jce-il/sw-modeling-2017b/wiki/Kafak.md
